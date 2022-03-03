@@ -7,6 +7,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 In this project you will build such a pipeline.
 
 The W&B project related to this is available [here](https://wandb.ai/snicholas/nyc_airbnb?workspace=user-snicholas)
+The github repository is available [here](https://github.com/snicholas/nd0821-c2-build-model-workflow-starter)
 
 ## Table of contents
 
